@@ -1,0 +1,5 @@
+{
+  "name": "Neon Bounce",
+  "description": "A high-octane, neon-styled brick breaker game built with React, TypeScript, and Canvas. Features smooth physics, particle effects, and responsive controls.",
+  "requestFramePermissions": []
+}
